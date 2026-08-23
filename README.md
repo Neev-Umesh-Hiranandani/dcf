@@ -8,7 +8,7 @@ Both models are run as **expectations analyses**: rather than arguing a target p
 they solve for the perpetual growth rate the traded price already embeds, and ask
 whether that rate is defensible.
 
-**Neev Hiranandani** · [hiranandanineev@gmail.com](mailto:hiranandanineev@gmail.com)
+**Neev Hiranandani** · [neev.u.hiranandani@gmail.com](mailto:neev.u.hiranandani@gmail.com)
 
 | Model | Valuation date | WACC | Market-implied g | g used here | |
 |---|---|---|---|---|---|
