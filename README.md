@@ -1,5 +1,4 @@
 # Financial-Models
-# Valuation Models
 
 Two unlevered DCF models on Indian large-cap consumer names, built from the annual
 reports up. Each opens live in your browser, no download needed, and the assumptions
